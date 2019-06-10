@@ -1,2 +1,0 @@
-# BigCheeks
-Created with CodeSandbox
